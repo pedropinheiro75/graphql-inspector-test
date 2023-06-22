@@ -4,8 +4,6 @@ type Post {
   """
   Date of Creation in ISO
   """
-  createdAt: String
-  modifiedAt: String
 }
 
 type Query {
