@@ -1,2 +1,2 @@
 branch: main
-schema: example/schemas/schema.graphql
+schema: schema.graphql
